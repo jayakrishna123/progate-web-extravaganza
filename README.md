@@ -6,7 +6,7 @@ The Progate Web Extravaganza is our way of celebrating the spirit of web develop
 
 As participants of this activity, you have to complete the following prerequisites:-
 
-* Join the Progate team: **ADD LINK**
+* Join the Progate team: **http://bit.ly/progate-web-extravaganza**
 * Complete the Git course on Progate
 
 ## Details of Submission
