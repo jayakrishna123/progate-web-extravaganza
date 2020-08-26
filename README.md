@@ -32,5 +32,5 @@ The name of your Markdown file must be in the following format: **YOUR_GITHUB_ID
 
 3. Commit and Push the changes to GitHub
 
-4. Create a Pull Request with your changes by pressing the **New pull request** button on your repository's GitHub page and then pressing **Create pull request**
+4. Create a Pull Request with your changes by pressing the **Pull Request** button on your repository's GitHub page and then pressing **Create pull request**
 ![Pull Request Example](pullrequest.png)
