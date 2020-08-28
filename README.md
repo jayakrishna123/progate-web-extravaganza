@@ -6,8 +6,11 @@ The Progate Web Extravaganza is our way of celebrating the spirit of web develop
 
 As participants of this activity, you have to complete the following prerequisites:-
 
-* Join the Progate team: **http://bit.ly/progate-web-extravaganza**
-* Complete the Git course on Progate
+1. Join the Progate team: **http://bit.ly/progate-web-extravaganza**
+2. If you were referred by someone, please fill the following form: **http://bit.ly/pwe-referred**
+3. Complete the Git course on Progate at: **https://progate.com/languages/git**
+
+If you'd like to become a Influencer and bring this event to your community, please fill the following form: **https://bit.ly/pwe-influencer**
 
 ## Details of Submission
 
