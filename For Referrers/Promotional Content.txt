@@ -1,0 +1,14 @@
+Since the inception of Progate, the one domain where we have enabled aspiring developers to pave their path and journey in is web development. We have come up with a new initiative to celebrate all the web developers who have joined us in our journey in empowering folks from all around the world.
+
+Ladies and gentlemen, we are proud to bring to you the “Progate Web Extravaganza”!!!
+
+The Progate Web Extravaganza celebrates the work web developers have been doing to support themselves and their communities and sharing the spirit of open source development at the same time. Starting from today, all those folks who join us in this challenge and follow the steps we have provided before the 3rd of September shall have one of their projects showcased on our GitHub repository. All those with valid submissions in this challenge shall receive a certificate for the same.
+
+In order to register, follow the steps below:
+
+1. Join the Progate Team: https://bit.ly/progate-web-extravaganza
+2. Please fill the following form: https://bit.ly/pwe-referred
+( Use the following Influencer Code: <INFLUENCER'S EMAIL ADDRESS> )
+3. Visit our GitHub repo for the challenge instructions: https://bit.ly/pwe-github
+
+If you have any further queries, please do email at: adityaoberai1@gmail.com

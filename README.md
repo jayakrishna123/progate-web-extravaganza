@@ -1,6 +1,6 @@
 # Welcome To The Progate Web Extravaganza
 
-The Progate Web Extravaganza is our way of celebrating the spirit of web development and teach the basics of Git and GitHub. All participants shall receive an opportunity to feature one website that they have built in the leaderboard after the activity ends.
+The Progate Web Extravaganza is our way of celebrating the spirit of web development and teach the basics of Git and GitHub. All participants shall receive an opportunity to feature one website that they have built in the shareboard after the activity ends.
 
 ## Prerequisites
 
@@ -9,8 +9,6 @@ As participants of this activity, you have to complete the following prerequisit
 1. Join the Progate team: **http://bit.ly/progate-web-extravaganza**
 2. If you were referred by someone, please fill the following form: **http://bit.ly/pwe-referred**
 3. Complete the Git course on Progate at: **https://progate.com/languages/git**
-
-If you'd like to become a Influencer and bring this event to your community, please fill the following form: **https://bit.ly/pwe-influencer**
 
 ## Details of Submission
 
@@ -37,3 +35,9 @@ The name of your Markdown file must be in the following format: **YOUR_GITHUB_ID
 
 4. Create a Pull Request with your changes by pressing the **Pull Request** button on your repository's GitHub page and then pressing **Create pull request**
 ![Pull Request Example](pullrequest.png)
+
+## Become an Influencer
+
+If you'd like to become a Influencer and bring this event to your community, please fill the following form: **https://bit.ly/pwe-influencer**
+
+Once you have filled the form, please check out the **For Referrers** folder for the promotional content
