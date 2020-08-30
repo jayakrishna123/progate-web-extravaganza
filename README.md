@@ -40,4 +40,8 @@ The name of your Markdown file must be in the following format: **YOUR_GITHUB_ID
 
 If you'd like to become a Influencer and bring this event to your community, please fill the following form: **https://bit.ly/pwe-influencer**
 
-Once you have filled the form, please check out the **For Referrers** folder for the promotional content
+Once you have filled the form, please check out the [For Referrers](https://github.com/Progate-Community/progate-web-extravaganza/tree/master/For%20Referrers) folder for the promotional content.
+
+## Further Queries
+
+For any further queries, you can create an **Issue** in this GitHub repository or email at **adityoberai1@gmail.com**
