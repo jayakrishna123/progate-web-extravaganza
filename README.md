@@ -1,6 +1,6 @@
 # Welcome To The Progate Web Extravaganza
 
-The Progate Web Extravaganza is our way of celebrating the spirit of web development and teach the basics of Git and GitHub. All participants shall receive an opportunity to feature one website that they have built in the shareboard after the activity ends.
+The Progate Web Extravaganza is our way of celebrating the spirit of web development and teach the basics of Git and GitHub. All participants shall receive an opportunity to feature one website that they have built in our shareboard after the activity ends.
 
 ## Prerequisites
 
@@ -14,12 +14,12 @@ As participants of this activity, you have to complete the following prerequisit
 
 You must create a Markdown file  that contains the following details:
 
-* Name Of Website/Project: "PROJECT_NAME"
-* Created By: "YOUR_NAME"
-* Description Of Website: "DESCRIPTION"
-* Link Where Site Is Hosted: "LINK"
-* Repository Of Website: "REPO"
-* Cover Image (preferable but not mandatory): "IMAGE_LINK"
+* Name Of Website/Project: **PROJECT_NAME**
+* Created By: **YOUR_NAME**
+* Description Of Website: **DESCRIPTION**
+* Link Where Site Is Hosted: **LINK**
+* Repository Of Website: **REPO**
+* Cover Image (preferable but not mandatory): **IMAGE_LINK**
 
 Please use **template.md** present in this to create your own Markdown file
 
